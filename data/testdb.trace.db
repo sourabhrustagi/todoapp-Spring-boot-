@@ -1,0 +1,6 @@
+2024-11-05 21:33:57.654714+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TO_DO" not found (this database is empty); SQL statement:
+select td1_0.id,td1_0.completed,td1_0.created_at,td1_0.description,td1_0.title from to_do td1_0 [42104-224]
+2024-11-05 21:34:23.055083+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TO_DO" not found (this database is empty); SQL statement:
+select td1_0.id,td1_0.completed,td1_0.created_at,td1_0.description,td1_0.title from to_do td1_0 [42104-224]
